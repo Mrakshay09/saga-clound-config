@@ -1,2 +1,2 @@
 
-application-profile: dev
+custom.message: Hello from global dev application-dev.yml

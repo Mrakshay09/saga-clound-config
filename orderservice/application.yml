@@ -1,1 +1,2 @@
-order-application-profile: none
+
+custom.message: Hello from order service dev application-dev.yml
