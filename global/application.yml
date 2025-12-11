@@ -13,3 +13,6 @@ eureka:
 gateway:
   server:
     port: 8999
+
+
+custom.message: Hello from global default application.yml
