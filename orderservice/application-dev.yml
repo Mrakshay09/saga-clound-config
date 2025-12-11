@@ -1,2 +1,2 @@
 
-custom.message: Hello from order service default application-dev.yml default
+custom.message: Hello from order service default application-dev.yml updated by actuator end point
